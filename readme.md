@@ -2,7 +2,9 @@
 
 A collection of my own skills, and other people's that I've found.
 
-See my [AI Agents skills](https://github.com/diegopetrucci/ai-agents-skills) repo for _all_ the other skills I use.
+## More Skills Like This
+
+Found this skill useful? Browse all my hand-crafted ones in the [AI Agents skills](https://github.com/diegopetrucci/ai-agents-skills) repo.
 
 ### Awknowledgements
 
