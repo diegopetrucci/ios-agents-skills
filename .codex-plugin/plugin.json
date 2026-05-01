@@ -1,0 +1,21 @@
+{
+  "name": "ios-agents-skills",
+  "version": "1.0.0",
+  "description": "Skills for developing, testing, and automating Apple platform projects.",
+  "author": {
+    "name": "Diego Petrucci",
+    "url": "https://github.com/diegopetrucci"
+  },
+  "repository": "https://github.com/diegopetrucci/ios-agents-skills",
+  "license": "MIT",
+  "keywords": ["ios", "swift", "swiftui", "automation", "developer-tools"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "iOS Agent Skills",
+    "shortDescription": "Apple platform development skills",
+    "longDescription": "A collection of skills for Swift, SwiftUI, iOS testing, simulator automation, macOS UI automation, and Sentry CLI workflows.",
+    "developerName": "Diego Petrucci",
+    "category": "Developer Tools",
+    "capabilities": ["Read", "Write", "Execute"]
+  }
+}
